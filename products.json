@@ -1,0 +1,32 @@
+[
+    {
+        "image": "1.jpg",
+        "title": "Mrs. XYZ",
+        "description": "dgvgfagdsfuasdgf hhasdf",
+        "price": "9.99$"
+    },
+    {
+        "image": "2.jpg",
+        "title": "Andrew Tate",
+        "description": "dgvgfagdsfuasdgf hhasdf",
+        "price": "9.99$"
+    },
+    {
+        "image": "3.jpg",
+        "title": "Elvish Yadav",
+        "description": "dgvgfagdsfuasdgf hhasdf",
+        "price": "9.99$"
+    },
+    {
+        "image": "4.jpg",
+        "title": "Kiara Advani",
+        "description": "dgvgfagdsfuasdgf hhasdf",
+        "price": "9.99$"
+    },
+    {
+        "image": "5.jpg",
+        "title": "",
+        "description": "dgvgfagdsfuasdgf hhasdf",
+        "price": "9.99$"
+    }
+]
